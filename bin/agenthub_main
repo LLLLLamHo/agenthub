@@ -8,7 +8,6 @@ const clientPath = path.join(__dirname, '../lib/client.js');
 const argv = process.argv.slice(2);
 
 const cfgPath = argv[0];
-
 nounou(clientPath, {
   args: [cfgPath],
   count: 1
