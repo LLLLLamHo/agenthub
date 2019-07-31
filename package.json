@@ -1,6 +1,6 @@
 {
   "name": "ea-agenthub",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "整合 agentx 和 commandx 便利工具",
   "main": "lib/agenthub.js",
   "bin": {
