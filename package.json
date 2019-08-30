@@ -32,8 +32,8 @@
     "lib"
   ],
   "dependencies": {
-    "ea-agentx": "^1.2.0",
     "commandx": "^1.3.3",
+    "ea-agentx": "^1.3.0",
     "nounou": "^1.2.1"
   },
   "devDependencies": {
