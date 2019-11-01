@@ -33,7 +33,7 @@
   ],
   "dependencies": {
     "ea-agentx": "^2.0.0",
-    "ea-commandx": "^1.5.4",
+    "ea-commandx": "^2.0.0",
     "nounou": "^1.2.1"
   },
   "devDependencies": {
